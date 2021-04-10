@@ -3,7 +3,7 @@ entries:
   api-gateway:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-04-10T09:41:35.404832388Z"
+    created: "2021-04-10T10:10:47.390127225Z"
     description: API Gateway Service
     digest: 4a5fe0bbd8cbc3c9e20cecc742cec9d554edb2aee4af8b2f534fe11f620160f3
     name: api-gateway
@@ -14,7 +14,7 @@ entries:
   console:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-04-10T09:41:35.405425393Z"
+    created: "2021-04-10T10:10:47.390763621Z"
     description: Console
     digest: a3ca05ad5128ac7c4974c79899900a249588783ea5c92fcf6440f145cc1f98e3
     name: console
@@ -25,7 +25,7 @@ entries:
   edge-cluster:
   - apiVersion: v2
     appVersion: 0.9.0
-    created: "2021-04-10T09:41:35.406062397Z"
+    created: "2021-04-10T10:10:47.391528517Z"
     description: Edge Cluster Service
     digest: cef435a8621df7354f136bddb8dc93446d7d31774081108e6dcd604f7fc00972
     name: edge-cluster
@@ -36,7 +36,7 @@ entries:
   edge-core:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-04-10T09:41:35.406630702Z"
+    created: "2021-04-10T10:10:47.392131913Z"
     description: Edge Core
     digest: 4ec855c17d6d0a6eb117d8fecc03da82f5e6547ec91a8fa7091e9c9b3b0f6682
     name: edge-core
@@ -47,7 +47,7 @@ entries:
   project:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-04-10T09:41:35.407180906Z"
+    created: "2021-04-10T10:10:47.39271241Z"
     description: Project Service
     digest: 1223c7ac49c1b7f04e3434dde062898bde011ed28908ff66fce37452cfe01714
     name: project
@@ -58,12 +58,12 @@ entries:
   user:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-04-10T09:41:35.40772651Z"
+    created: "2021-04-10T10:10:47.393248806Z"
     description: User Service
-    digest: 04fd554d733244ced6f16edfc021df6b37f4a9862cc6986ec08d0c59c3ea7b1d
+    digest: cb5c3efd68777864b25fea7a6fdac1e3c795802f6ee15b5c3a80252bbc02d3b1
     name: user
     type: application
     urls:
     - https://decentralized-cloud.github.io/helm/user-0.1.1.tgz
     version: 0.1.1
-generated: "2021-04-10T09:41:35.403992782Z"
+generated: "2021-04-10T10:10:47.389196131Z"
