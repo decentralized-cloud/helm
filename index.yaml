@@ -3,7 +3,7 @@ entries:
   api-gateway:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-04-15T09:12:39.36785084Z"
+    created: "2021-04-17T03:36:09.393421057Z"
     description: API Gateway Service
     digest: 0fd80625653b51d2b53aa78ca878c3dd9659c5ab69ee82050678f593c9001e76
     name: api-gateway
@@ -14,7 +14,7 @@ entries:
   console:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-04-15T09:12:39.368294463Z"
+    created: "2021-04-17T03:36:09.394124361Z"
     description: Console
     digest: 4e3a2cbda0dd071e38f865984cf6fafe0ee0ac674957062d8c8a126185b5aac2
     name: console
@@ -25,9 +25,9 @@ entries:
   edge-cluster:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-04-15T09:12:39.368733485Z"
+    created: "2021-04-17T03:36:09.394747565Z"
     description: Edge Cluster Service
-    digest: 44ff8a113f2826fb4301f6e57ea43f888e80f7006e48e4a9426a8e994dc447d5
+    digest: 6bf6f2cb3c6283f66ff15b02e6b85b3c0c25a1afe4079b8b6db7d38b42f459aa
     name: edge-cluster
     type: application
     urls:
@@ -36,7 +36,7 @@ entries:
   edge-core:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-04-15T09:12:39.369160707Z"
+    created: "2021-04-17T03:36:09.395301868Z"
     description: Edge Core
     digest: 4ec855c17d6d0a6eb117d8fecc03da82f5e6547ec91a8fa7091e9c9b3b0f6682
     name: edge-core
@@ -47,7 +47,7 @@ entries:
   project:
   - apiVersion: v2
     appVersion: 0.8.3
-    created: "2021-04-15T09:12:39.369711435Z"
+    created: "2021-04-17T03:36:09.396028373Z"
     description: Project Service
     digest: d9f6d047cc99cb5264a7bdcda7b2d3ca46cea8acf089d77fe0f43929eab07a0b
     name: project
@@ -58,7 +58,7 @@ entries:
   user:
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2021-04-15T09:12:39.370247563Z"
+    created: "2021-04-17T03:36:09.397339881Z"
     description: User Service
     digest: 2513b56571758510cdd7f50d19c1c39f4f96b3da5affbb27e100094b9ca0fc72
     name: user
@@ -66,4 +66,4 @@ entries:
     urls:
     - https://decentralized-cloud.github.io/helm/user-0.1.1.tgz
     version: 0.1.1
-generated: "2021-04-15T09:12:39.367113403Z"
+generated: "2021-04-17T03:36:09.392548852Z"
