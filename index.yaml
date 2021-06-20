@@ -3,7 +3,7 @@ entries:
   api-gateway:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-06-20T07:03:26.326517457Z"
+    created: "2021-06-20T07:05:11.321044138Z"
     description: API Gateway Service
     digest: 0fd80625653b51d2b53aa78ca878c3dd9659c5ab69ee82050678f593c9001e76
     name: api-gateway
@@ -14,7 +14,7 @@ entries:
   console:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-06-20T07:03:26.327087064Z"
+    created: "2021-06-20T07:05:11.321564948Z"
     description: Console
     digest: 4422ea082a1aff3de0b49c6c44883b3cd2deb13bdf2db21e48780a825973ff5a
     name: console
@@ -25,9 +25,9 @@ entries:
   edge-cluster:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-06-20T07:03:26.327668271Z"
+    created: "2021-06-20T07:05:11.322132359Z"
     description: Edge Cluster Service
-    digest: 7eeaec2f0dcf6bd9b59abcf3f7f0086fb4a51330ba91f85c7b97a6dc67bcd3cb
+    digest: 71f38b26f02974975d6fed63a389638c78867d144e6ab19ccf56d7ac6629ae55
     name: edge-cluster
     type: application
     urls:
@@ -36,7 +36,7 @@ entries:
   edge-core:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-06-20T07:03:26.328270679Z"
+    created: "2021-06-20T07:05:11.322664469Z"
     description: Edge Core
     digest: de2dc8d239b84e78f90c7e3b8dadc9801e8d43ee8ad30910e539f5a9cf157856
     name: edge-core
@@ -47,7 +47,7 @@ entries:
   project:
   - apiVersion: v2
     appVersion: 0.8.3
-    created: "2021-06-20T07:03:26.329573796Z"
+    created: "2021-06-20T07:05:11.323071777Z"
     description: Project Service
     digest: d9f6d047cc99cb5264a7bdcda7b2d3ca46cea8acf089d77fe0f43929eab07a0b
     name: project
@@ -58,7 +58,7 @@ entries:
   user:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-06-20T07:03:26.330829812Z"
+    created: "2021-06-20T07:05:11.323519686Z"
     description: User Service
     digest: 5a03a9e1b7d380ad116d0c368cf4fb9427a2a73498ca0b1b99036cb70abccd1b
     name: user
@@ -66,4 +66,4 @@ entries:
     urls:
     - https://decentralized-cloud.github.io/helm/user-0.1.1.tgz
     version: 0.1.1
-generated: "2021-06-20T07:03:26.325741647Z"
+generated: "2021-06-20T07:05:11.320507028Z"
